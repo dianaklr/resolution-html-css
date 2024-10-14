@@ -237,6 +237,7 @@ header h2{
 iframe{
     width: 100%;
     height: 664px;
+    display: block;
 }
 footer{
     height: 94px;

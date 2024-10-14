@@ -1,0 +1,15 @@
+@media screen and (min-width: 768px) and (max-width: 1279px){
+    body{
+        margin: 48px 24px;
+    }
+    .items{
+        min-width: 720px;
+        flex-wrap: wrap;
+        gap: 24px;
+    }
+    .item{
+        width: 45%;
+        margin-bottom: 16px;
+    }
+
+}

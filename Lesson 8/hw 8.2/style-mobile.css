@@ -1,0 +1,14 @@
+@media screen  and (max-width: 767px){
+    body{
+        margin: 32px 16px;
+    }
+    .items{
+        width: 100%;
+        flex-wrap: wrap;
+        gap: 32px;
+    }
+    .item{
+        width: 100%;
+    }
+
+}
